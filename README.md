@@ -1,3 +1,4 @@
 # rock-paper-scissor
 It is a rock-paper-scissor game
-Author -Mohit Meerchandani
+<br>
+[Play](https://rock-paper-scissor-black-theta.vercel.app/)
